@@ -1,0 +1,7 @@
+# PostgreSQL
+# ------------------------------------------------------------------------------
+POSTGRES_HOST=postgres
+POSTGRES_PORT=5432
+POSTGRES_DB=my_medical_app
+POSTGRES_USER=CHyYkWfDLuxCbCHslAVCChfBqEzzYcEz
+POSTGRES_PASSWORD=J6fryXhhKPO3k7nK7rrydcIRgK4BqUT4PlUXNshfLkBcWTK4cIEUtvL0eQsnIFvo
